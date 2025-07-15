@@ -28,9 +28,9 @@ Saya juga sangat senang mengeksplorasi teknologi baru, belajar hal-hal fresh dar
 ---
 
 ## 🌱 Saat Ini Saya Sedang...
-- Mengembangkan project berbasis Laravel 12 + Laravel Brezee + Laravel Socialite + JavaScript + Vite + TailwindCSS -> TailwindGRID
+- Membuat sistem absensi online berbasis QR Code Starter Kit Laravel 12 + React
+- Membuat Sistem Pemantauan Kualitas Air Menggunakan Internet Off Things (Iot) - (untuk skripsi 🎓)
 - Belajar mendalam tentang REST API dan deployment CI/CD
-- Membuat sistem absensi online berbasis QR Code Laravel 12 (untuk skripsi 🎓)
 
 ---
 
