@@ -28,8 +28,8 @@ Saya juga sangat senang mengeksplorasi teknologi baru, belajar hal-hal fresh dar
 ---
 
 ## 🌱 Saat Ini Saya Sedang...
-- Membuat sistem absensi online berbasis QR Code Starter Kit Laravel 12 + React
-- Membuat Sistem Pemantauan Kualitas Air Menggunakan Internet Off Things (Iot) - (untuk skripsi 🎓)
+- Membuat Sistem Absensi Online Berbasis QR Code Starter Kit Laravel 12 + React
+- Membuat Sistem Pemantauan Kualitas Air Menggunakan Internet Off Things (Iot) - (Untuk Skripsi 🎓)
 - Belajar mendalam tentang REST API dan deployment CI/CD
 
 ---
