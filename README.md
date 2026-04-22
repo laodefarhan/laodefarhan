@@ -1,6 +1,6 @@
-# 👋 Hi, saya Laode Farhan Fadilah
+# 👋 Hi, I'm Laode Farhan Fadilah
 
-Saya adalah seorang **Fullstack Web Developer** yang antusias dalam membangun aplikasi web modern, efisien, dan responsif—mulai dari front-end hingga back-end. Passion saya adalah menciptakan pengalaman pengguna yang **cepat**, **menarik**, dan **berorientasi solusi nyata**.
+Fullstack Web Developer yang fokus membangun aplikasi web modern, cepat, dan scalable. Saya terbiasa mengembangkan sistem dari frontend hingga backend dengan pendekatan yang efisien dan berorientasi pada solusi nyata.
 
 ---
 
@@ -19,18 +19,16 @@ Saya adalah seorang **Fullstack Web Developer** yang antusias dalam membangun ap
 
 ---
 
-## 🧠 Tentang Saya
-
-Saya terbiasa membangun aplikasi web dari nol hingga siap pakai—**end-to-end development**. Mulai dari mendesain antarmuka yang nyaman digunakan, mengelola database yang optimal, hingga membangun sistem back-end yang **scalable**, **secure**, dan **maintainable**.
-
-Saya juga sangat senang mengeksplorasi teknologi baru, belajar hal-hal fresh dari komunitas developer, dan berkolaborasi dalam menciptakan solusi digital yang impactful.
+## 🛠️ Apa yang Saya Lakukan
+- Membangun aplikasi web end-to-end
+- Optimasi performa & struktur database
+- Menulis kode yang clean, scalable, dan maintainable
 
 ---
 
-## 🌱 Saat Ini Saya Sedang...
-- Membuat Sistem Absensi Online Berbasis QR Code Starter Kit Laravel 12 + React
-- Membuat Sistem Pemantauan Kualitas Air Menggunakan Internet Off Things (Iot) - (Untuk Skripsi 🎓)
-- Belajar mendalam tentang REST API dan deployment CI/CD
+## 🌱 Sedang Dikerjakan
+- Pengembangan Sistem Informasi Web Sekolah “Teras Diskusi” yang terintegrasi untuk mendukung aktivitas pembelajaran dan manajemen data akademik
+- Pengembangan Model Machine Learning untuk Klasifikasi Tingkat Kematangan Buah Pisang sebagai bagian dari implementasi analisis data berbasis citra
 
 ---
 
