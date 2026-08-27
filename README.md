@@ -26,9 +26,13 @@ Fullstack Web Developer yang fokus membangun aplikasi web modern, cepat, dan sca
 
 ---
 
-## 🌱 Sedang Dikerjakan
-- Pengembangan Sistem Informasi Web Sekolah “Teras Diskusi” yang terintegrasi untuk mendukung aktivitas pembelajaran dan manajemen data akademik
-- Pengembangan Model Machine Learning untuk Klasifikasi Tingkat Kematangan Buah Pisang sebagai bagian dari implementasi analisis data berbasis citra
+## 🌱 Sedang Dikerjakan | Selesai Dikerjakan
+- 🍌 Machine Learning — Klasifikasi Tingkat Kematangan Buah Pisang
+  Model Machine Learning berbasis analisis citra untuk mengklasifikasikan tingkat kematangan buah pisang. Project ini menerapkan pengolahan data citra dan Machine
+  Learning sebagai implementasi teknologi dalam analisis kualitas hasil pertanian.
+- 🚀 Fokus Saat Ini
+  Saat ini saya terus mengembangkan kemampuan di bidang Fullstack Web Development, Software Engineering, dan Machine Learning, sekaligus membangun berbagai
+  project untuk memperluas pengalaman dalam pengembangan teknologi yang memiliki nilai dan manfaat nyata.
 
 ---
 
